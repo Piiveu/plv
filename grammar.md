@@ -7,7 +7,7 @@ Plv hasn't got any indefinite articles.
 
 All verbs ends with "-oh" 
 
-e.g.: 
+E.G.: 
 
 esoh- to be  
 
@@ -41,7 +41,7 @@ iyms| they
 
 In plv you can build sentence in form: SVO or SOV
 
-E.G:
+E.G.:
 
 Tunae at- i'm doing it
 
