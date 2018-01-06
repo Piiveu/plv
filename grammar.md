@@ -5,7 +5,15 @@ Plv has 2 genders- masculine an feminine, so it has 2 definitive articles- de(ma
 
 Plv hasn't got any indefinite articles.
 
-All verbs ends with "-oh" e.g.: esoh- to be  hoh- to have  tunoh- to do
+All verbs ends with "-oh" 
+
+e.g.: 
+
+esoh- to be  
+
+hoh- to have  
+
+tunoh- to do
  
 Plv has got 1 conjugation:
 
