@@ -1,7 +1,7 @@
 
 # Grammar
 
-Plv has 2 genders- masculine an feminine, so it has 2 definitive articles- de(masculine) and da(feminine)
+Plv has 2 genders- masculine and feminine, so it has 2 definitive articles- de(masculine) and da(feminine)
 
 Plv hasn't got any indefinite articles.
 
