@@ -19,11 +19,11 @@ tunoh- to do
 
 Person| Definition
 ------|----------
-yae | I
+mae | I
 dae | you
 iyn | he
 iym | she
-mae | we
+nae | we
 vae | you
 iyns| they
 iyms| they
@@ -34,10 +34,10 @@ Plv has got 1 conjugation:
 
 Person | Ending | Verb
 -------|--------|------
-Yae | -ae | esae
-Dae | -aet| esaet
-Iyn/Iym |-ó| esó
 Mae | -aem | esaem
+Dae | -aes| esaes
+Iyn/Iym |-ó| esó
+Nae | -aen | esaen
 Vae | -aev | esaev
 Iyns/Iyms |-ós | esós
 
@@ -45,7 +45,7 @@ In plv you can build sentence in form: SVO or SOV
 
 E.G.:
 
-Tunae at.- i'm doing it.
+Tunaem at.- i'm doing it.
 
 at- it
 
@@ -55,10 +55,10 @@ To make past tense, you have to add ending "-re" to verb.
 
 Person | Ending | Past Verb
 -------|--------|----------
-Yae | -aere | esaere
-Dae | -aetre| esaetre
-Iyn/Iym |-óre| esóre
 Mae | -aemre | esaemre
+Dae | -aesre| esaesre
+Iyn/Iym |-óre| esóre
+Nae | -aenre | esaenre
 Vae | -aevre | esaevre
 Iyns/Iyms |-ósre | esósre
 
@@ -70,10 +70,10 @@ E.G.:
 
 Person | Ending | Future Verb
 -------|--------|------------
-Yae | -aede | esaede
-Dae | -aetde| esaetde
-Iyn/Iym |-óde| esóde
 Mae | -aemde | esaemde
+Dae | -aesde| esaesde
+Iyn/Iym |-óde| esóde
+Nae | -aende | esaende
 Vae | -aevde | esaevde
 Iyns/Iyms |-ósde | esósde
 
@@ -98,8 +98,9 @@ dasmoh | should
 luszoh | like
 nevsoh | hate
 rinaloh | love
+vannoh | want
 
-When you want to say e.g.: "I like going to cinema", you have to say: "Luszae su cino umpló"
+When you want to say e.g.: "I like going to cinema", you have to say: "Luszaem su cino umpló"
 
 su- to 
 
@@ -109,7 +110,7 @@ umploh- to go
 
 So if you want to make sentence with modal verb, the 2nd verb has to be in the 3th person singular. E.G.: "esó", "hó", "tunó", "umpló" and be on the end of sentence.
 
-Nevsae at tunó.- I hate to do it.
+Nevsaem at tunó.- I hate to do it.
 
 # Adjectives
 
