@@ -20,7 +20,7 @@ tunoh- to do
 Person| Definition
 ------|----------
 mae | I
-dae | you
+tae | you
 iyn | he
 iym | she
 nae | we
@@ -35,7 +35,7 @@ Plv has got 1 conjugation:
 Person | Ending | Verb
 -------|--------|------
 Mae | -aem | esaem
-Dae | -aes| esaes
+Tae | -aes| esaes
 Iyn/Iym |-ó| esó
 Nae | -aen | esaen
 Vae | -aev | esaev
@@ -56,7 +56,7 @@ To make past tense, you have to add ending "-re" to verb.
 Person | Ending | Past Verb
 -------|--------|----------
 Mae | -aemre | esaemre
-Dae | -aesre| esaesre
+Tae | -aesre| esaesre
 Iyn/Iym |-óre| esóre
 Nae | -aenre | esaenre
 Vae | -aevre | esaevre
@@ -71,7 +71,7 @@ E.G.:
 Person | Ending | Future Verb
 -------|--------|------------
 Mae | -aemde | esaemde
-Dae | -aesde| esaesde
+Tae | -aesde| esaesde
 Iyn/Iym |-óde| esóde
 Nae | -aende | esaende
 Vae | -aevde | esaevde
