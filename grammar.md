@@ -19,14 +19,14 @@ tunoh- to do
 
 Person| Definition
 ------|----------
-mae | I
-tae | you
-iyn | he
-iym | she
-nae | we
-vae | you
-iyns| they
-iyms| they
+I | mae
+you | tae
+he | iyn
+she | iym
+we | nae
+you | vae
+they| iyns
+they| iyms
  
 Plv has got 1 conjugation:
 
