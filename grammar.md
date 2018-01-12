@@ -92,13 +92,13 @@ List of modal verbs and meaning
 
 Verb | Meaning
 -----|--------
-cannoh | can
+vammoh | can
 mussoh | must
 dasmoh | should
 luszoh | like
 nevsoh | hate
 rinaloh | love
-vannoh | want
+nostoh | want
 
 When you want to say e.g.: "I like going to cinema", you have to say: "Luszaem su cino umpló"
 
