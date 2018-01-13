@@ -11,13 +11,13 @@ da- the (feminine)
 
 "a" and "an" don't excist
 
-If you want to make noun from verb or adjective, you give ending "-en" and remove ending "-oh" or ending "-e or -a"
+If you want to make noun from verb or adjective, you give ending "-ó" or -á" and remove ending "-oh" or ending "-e or -a"
 
 E.G.:
 
-da rinalen- love
+rinalá- love
 
-de gaeten- the good
+gaetó- the good
 
 Last letter of noun discribes gender of this noun.
 
@@ -25,28 +25,49 @@ e, i, o, u- masculine
 
 a,y- feminine
 
-Noun | Meaning
+Masculine Noun | Meaning
 -----|--------
-de able|the apple
-de caid|the time
-de haert|the heart
-de haid|the murder
-de haider|the murderer
-de igzi|the fire
-da magh|the girl
-da mar|the see
-de maid|the muzzle
-da memsza|the face
-de quolec| the mate
-da rab|the dauther
-de rek|the son
-da radh|the road
-de sol|the sun
-de teor|the truth
-da szatar|the tounge
-de szathor|the language
-de varmaid|the dog
-de yugh|the boy
+able|pple
+breszter|stomach
+caid|time
+cercó|cold
+cipher|taste
+fon|phone
+gaetó|good
+gnó|knowledge
+haert|heart
+haid|murder
+haider|murderer
+heszt|note
+hricó|meeting
+ierron|fate
+igzi|fire
+imperia|country
+maid|muzzle
+milium|century age
+lesst|letter
+quolec|mate
+percer|peace harmony
+phel|soap
+phelser|head
+phelsz|brain
+regz|king
+rek|son
+reteor|lie
+sen|sound
+sol|sun
+squol|school
+sztor|day
+teor|truth
+sarmes|smile
+szathor|language
+vaert|water
+vahs|wind
+varmaid|dog
+vertó|warm
+vogató|train
+yghó|vision
+yugh|boy
 
 
 
