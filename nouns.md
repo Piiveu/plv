@@ -46,6 +46,7 @@ imperia|country
 maid|muzzle
 milium|century age
 lesst|letter
+levó|life
 quolec|mate
 percer|peace harmony
 phel|soap
