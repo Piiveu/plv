@@ -27,7 +27,7 @@ a,y- feminine
 
 Masculine Noun | Meaning
 -----|--------
-able|pple
+able|apple
 breszter|stomach
 caid|time
 cercó|cold
