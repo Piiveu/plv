@@ -2,18 +2,6 @@
 
 
 # Nouns
-PLV|English
----|-------
-dener|one
-duon|two
-sether|three
-monther|four
-darmó|five
-szeg|six
-szegben|seven
-octó|eight
-neió|nine
-den|ten
 
 de, da- the
 
@@ -37,7 +25,6 @@ e, i, o, u- masculine
 
 a,y- feminine
 
-# Numbers
 
 
 Masculine Noun | Meaning
@@ -102,6 +89,20 @@ vogatoestoen|platform
 yghó|vision
 yghós|window
 yugh|boy
+
+# Numbers
+PLV|English
+---|-------
+dener|one
+duon|two
+sether|three
+monther|four
+darmó|five
+szeg|six
+szegben|seven
+octó|eight
+neió|nine
+den|ten
 
 
 # Days of week
