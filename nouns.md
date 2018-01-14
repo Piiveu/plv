@@ -30,12 +30,19 @@ a,y- feminine
 Masculine Noun | Meaning
 -----|--------
 able|apple
+aecsztor|yesterday
 bem|room
+bester|happiness
+bledó|bag
 breszter|stomach
 caid|time
 cercó|cold
 cipher|taste
+daeyraedh|ass
 dró|death
+equesztor|tomorrow
+faran|man
+farem|tooth
 fon|phone
 gaetó|good
 gnó|knowledge
@@ -48,6 +55,7 @@ hricó|meeting
 ierron|fate
 igzi|fire
 imperia|country
+jarket|hope
 jerró|food
 kogehebem|kitchen
 notó|idiot
@@ -56,7 +64,10 @@ milium|century age
 medrem|shadow
 lesst|letter
 levó|life
+loben|wolf
 quolec|mate
+palh|pain
+patró|father
 percer|peace harmony
 phel|soap
 phelser|head
@@ -64,6 +75,7 @@ phelsz|brain
 phlaf|flower
 regz|king
 rek|son
+renemavó|repetition
 reteor|lie
 sanguara|blood
 sen|sound
@@ -72,23 +84,45 @@ sercion|spell
 sol|sun
 stroel|street
 squol|school
+szemael|word
 szleter|light
 sztor|day
+tavaló|table
 tel|end
+tersztor|today
 teor|truth
 sarm|smile
 sepebem|bedroom
 szathor|language
+vaet|world
 vaert|water
 vahs|wind
 varmaid|dog
+vaszebem|bathroom
 vertó|warm
+vinós|grape
 voeb|floor
 vogató|train
 vogatoestoen|platform
 yghó|vision
 yghós|window
 yugh|boy
+
+Feminine Noun|Meaning
+-------------|-------
+alaema|egg
+astermaca|dinner
+cirha|church
+casca|picture
+daema|dish
+gerk|woman
+lemantra|freedom
+magh|girl
+matró|mother
+plaeva|fear
+rodh|road
+suelae|chair
+
 
 # Numbers
 PLV|English
